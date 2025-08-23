@@ -1,5 +1,5 @@
 age  = 0;
-console.log(age);// it is treat as a var variable
+console.log(age);// it is treat as a var variable if  i do this in strict mode then it will give's error
 // var age = 21;
 let fName = "Uzair";
 const lName = "Ahmed";
